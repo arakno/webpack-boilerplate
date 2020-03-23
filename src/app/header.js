@@ -10,3 +10,4 @@ export class Header {
     }
 }
 
+// customElements.define('lit-header', Header);

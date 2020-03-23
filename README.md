@@ -1,4 +1,4 @@
-# PUBHUB FRONTEND Boilerplate
+# PUBHUB FRONTEND build
 
 ## 🚀 Quick Setup
 
