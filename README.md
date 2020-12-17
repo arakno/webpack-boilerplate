@@ -1,4 +1,4 @@
-# PUBHUB FRONTEND build
+# Webpack FRONTEND build
 
 ## 🚀 Quick Setup
 
