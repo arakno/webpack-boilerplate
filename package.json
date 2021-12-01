@@ -1,7 +1,7 @@
 {
-  "name": "pubhunt-frontend",
+  "name": "frontend-boilerplate",
   "version": "1.0.0",
-  "description": "Pubhunt frontend",
+  "description": "frontend boilerplate",
   "main": "index.js",
   "scripts": {
     "a11y": "npm run a11y",
